@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="easy">초급</string>
+    <string name="medium">중급</string>
+    <string name="hard">고급</string>
+    <string name="help">방향키 버튼으로 이동, 가운데 버튼으로 열기, 2468로 화면 이동, 0으로 화면초기화, 왼쪽 메뉴버튼으로 깃발, 오른쪽 메뉴버튼으로 화음, *로 확대, #로 축소</string>
+    <string name="custom">사용자 지정</string>
+    <string name="popupName">사용자 지정 게임</string>
+    <string name="heightselectText">세로 칸 수 :</string>
+    <string name="widthselectText">가로 칸 수 :</string>
+    <string name="start">시작</string>
+    <string name="mineselectText">지뢰 갯수 :</string>
+</resources>
